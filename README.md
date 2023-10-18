@@ -12,15 +12,6 @@
 <a href="https://instagram.com/_darkstar69?igshid=OGQ5ZDc2ODk2ZA==" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darkstar69" height="30" width="40"/>
 </a>
-<a href="https://www.facebook.com/arnab.maity.50159836?mibextid=ZbWKwL" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-original.svg" alt="Darkstar" height="30" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/arnab-maity-58ab39213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="Arnab Maity" height="30" width="40"/>
-</a>
-<a href="https://x.com/rahulmaity02?t=hYpkYZdWVZWp3avwj88Opg&s=09" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" alt="@rahulmaity02" height="30" width="40"/>
-</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
