@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thisisdarkstar@duck.com**
 
-- ⚡ Learing More **Programmin is so fun**
+- ⚡ Learning More **Programmin is so fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
