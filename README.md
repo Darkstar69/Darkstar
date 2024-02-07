@@ -26,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt="bash" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="linux" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-original.svg" alt="java" height="40">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darkstar69&label=Profile%20views&color=0e75b6&style=flat" alt="darkstar" /> 
 <!---
