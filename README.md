@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darkstar</h1>
 <h3 align="center">Leveling Up Every Day Until I can Clear All The Puzzles of My Life</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Devlopment**
+- 🌱 I’m currently learning **Android Application Development**
 
 - 📫 How to reach me **thisisdarkstar@duck.com**
 
