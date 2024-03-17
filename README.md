@@ -30,7 +30,7 @@
 - 👩‍💻 I can code in <b>HTML, CSS, JavaScript, Python, Bash, Java</b>
 - 🤗 I know Technologies like <b>Git, GitHub, Linux</b>
 - 🤭 I am up for any Collaboration
-- 🧏‍♂️ How to reach me [![Mail](https://img.shields.io/badge/-Mail-grey?logo=gmail)](thisisdarkstar@duck.com)
+- 🧏‍♂️ How to reach me [![Mail](https://img.shields.io/badge/-Mail-grey?logo=gmail)](mailto:thisisdarkstar@duck.com)
 - 🕺 Learning More **Programmin is so fun**
 
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darkstar69">
