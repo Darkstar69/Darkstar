@@ -14,7 +14,6 @@
 [![Node JS](https://img.shields.io/badge/-Node-aliceblue?logo=nodejs)](#)
 [![Express](https://img.shields.io/badge/-Express-navy?logo=Express)](#)
 [![Mysql](https://img.shields.io/badge/-Mysql-whitesmoke?logo=mysql)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-lightblue?logo=Mongodb)](#)
 [![Java](https://img.shields.io/badge/-Java-red?logo=openjdk)](#)
 [![XML](https://img.shields.io/badge/-XML-darkorange?logo=xml)](#)
 [![Android](https://img.shields.io/badge/-Android-navy?logo=Android)](#)
@@ -22,6 +21,7 @@
 [![Bash](https://img.shields.io/badge/-Bash-darkgrey?logo=bash)](#)
 [![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)](#)
 [![GIT](https://img.shields.io/badge/-Git-grey?logo=git)](#)
+[![C](https://img.shields.io/badge/-C-blue?logo=c)](#)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Darkstar69&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
 
