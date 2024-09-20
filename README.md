@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Darkstar69&label=Profile%20views&color=0e75b6&style=flat" alt="darkstar" />
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Darkstar</h1>
-<h3 align="center">Leveling Up Every Day Until I can Clear All The Puzzles of My Life ;) </h3>
+<h3 align="center">Leveling Up Every Day Until I can Clear All The Puzzles of My Life 😎 </h3>
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=MERN+Stack+Developer;Android+Application+Developer;Ethical+Hacker;Bug+Bounty+Hunter"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=MERN+Stack+Developer;Android+Application+Developer;Ethical+Hacker;Bug+Bounty+Hunter;SOC+Analyst"></a>
 </p>
 
 ### ⚡ Skills:
@@ -25,9 +25,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Darkstar69&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
 
-- 🍳 I’m currently learning **Android Application Development**
-- 🤔 I’m interested in <b>Reverse Engineering, Malware Development, Pentration Testing, Ai</b>
-- 👩‍💻 I can code in <b>HTML, CSS, JavaScript, Python, Bash, Java</b>
+- 🍳 I’m currently pursuing my career as **Soc Analyst**
+- 🤔 I’m interested in <b>Reverse Engineering, Malware Development, Ai</b>
+- 👩‍💻 I can code in <b>HTML, CSS, JavaScript, Python, Bash, Java, C</b>
 - 🤗 I know Technologies like <b>Git, GitHub, Linux</b>
 - 🤭 I am up for any Collaboration
 - 🧏‍♂️ How to reach me [![Mail](https://img.shields.io/badge/-Mail-grey?logo=gmail)](mailto:thisisdarkstar@duck.com)
