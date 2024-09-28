@@ -25,7 +25,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Darkstar69&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
 
-- 🍳 I’m currently pursuing my career as **Soc Analyst**
+- 🍳 I’m currently pursuing my career as **Cyber Security Specialist**
 - 🤔 I’m interested in <b>Reverse Engineering, Malware Development, Ai</b>
 - 👩‍💻 I can code in <b>HTML, CSS, JavaScript, Python, Bash, Java, C</b>
 - 🤗 I know Technologies like <b>Git, GitHub, Linux</b>
