@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Darkstar</h1>
 <h3 align="center">Leveling Up Every Day Until I can Clear All The Puzzles of My Life 😎 </h3>
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=MERN+Stack+Developer;Android+Application+Developer;Ethical+Hacker;Bug+Bounty+Hunter;SOC+Analyst"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=MERN+Stack+Developer;Android+Application+Developer;Ethical+Hacker;Bug+Bounty+Hunter"></a>
 </p>
 
 ### ⚡ Skills:
